@@ -1,2 +1,2 @@
-# 5 Guys
+# FiveGuys
 Rocco, Josh, Julia, Anaishia, Kwesi
